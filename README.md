@@ -464,7 +464,7 @@ We are all looking forward to improving ourselves, to learn from our shortcoming
     <th>Cyber Forensics Specialist</th>
   </tr>
   <tr style="height : 140px">
-  
+  </style>
     <td>Responsibilities</td>
     <td>Solving basic problems
         including product features ,return,polices about a product and delivery schedule etc.</td>
