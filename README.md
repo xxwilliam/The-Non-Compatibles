@@ -165,12 +165,7 @@ By teaching children cybersecurity basics — including both the why and how —
 <p><b>Panel of Cyber Security Experts, IT Security Central, cyber security in five years the tops experts speak.</b></p>
 <p><b>ENISA and TeleTrust – IT Security Association, paragraph 2&3, published Feb, 7th, 2019.</b></p>
 
-<style>
-table, th, td {
-  border:1px solid black;
-  border-collapse: collapse;
-}
-</style>
+
 
 
 
@@ -181,7 +176,12 @@ table, th, td {
 <p>Alexander ball's ideal job is IT Support. William's ideal job is Cyber Security Analyst, And Mediha Sabahat's is Cyber Froensics Analyst.</p>
 <p>Everyone in our group has a slightly different pathway than the others but there is still some simlarities</p>
 
-
+<style>
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+</style>
 
 <table style="width:80%">
   <tr>
@@ -441,10 +441,7 @@ We are all looking forward to improving ourselves, to learn from our shortcoming
 
 
 
-table, th, td {
-  border:1px solid black;
-  border-collapse: collapse;
-}
+
 
 
 
